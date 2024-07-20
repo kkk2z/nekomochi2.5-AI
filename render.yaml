@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: nekomochi2.5-AI
+    name: nekomochi2.5-ai
     env: python
     plan: free
     buildCommand: pip install -r requirements.txt
